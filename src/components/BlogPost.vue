@@ -13,6 +13,7 @@
 	import {ref} from 'vue';
 
 	export default {
+		
 		// props: ['title', 'id', 'lorem', 'color'],
 		props: {
 			userId: Number,
